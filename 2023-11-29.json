@@ -1,0 +1,26 @@
+{
+  "name": "Catherine Miller",
+  "age": 38,
+  "address": {
+    "street": "Egcis Pike",
+    "city": "Padfoza",
+    "state": "SC",
+    "zip": "23045"
+  },
+  "contact": {
+    "phone": "(605) 253-4464",
+    "servicePhone": "800221673"
+  },
+  "birthday": "1987-07-07T16:07:19.124Z",
+  "ip": "42.169.92.21",
+  "foo": "bar",
+  "profile": {
+    "about": "Wuli se upeuz paec sepollov uputujpul ma ajoum razbevi uz bepwa boozicas gopto aj. Wiujien ijurujen ifatogse uki ilvuwa feparah kowoufe migmo bacow fin we bec zokofde igufomin. Recmezvig uma sol hi fihuga daded va muzeltik zoretizi hu siwmov su ruwimeh vodo apusuc uzguwi citimsos gezajme.",
+    "bio": "Ugevifet bimeh keh wil siliuki folgolat nagejutuc we oro zoc muwogozo notza jekwibeh bejatwe. Rokusa muf zonaez pojo hebiik meh le civada levkot kogud bufjivrer bicvej busow co. Be wel ven tuwaf kemurco poztirik ron nimuni me fumrol maf fum resde vo lozuwo zu ruco fivulem. Lilumure lez iha ticfem ebokikem enfiona bomeb fiw ajacgu iloalfi judhuhev kiszozhu jum gobu tonerbas. Zuec zocvaihi bigtuut disvevep owuova fa bonuhfi im bevol osaihki raneddun pes mersag. Sat at lerpu biguf cuw bagisno gul eforus remaw itewo dom ric faripuj etpo dura. Cukgip duwa tow jelajze cuzpisho kiuste us ki cot wazma doz howce etjuk inokaw gaeduten zafuce."
+  },
+  "apiKey": "130cf3c867421d2cb4438563195b72197193f6909a6aff98780409570852d4de",
+  "currency": {
+    "code": "LTL",
+    "name": "Lithuania Litas"
+  }
+}
