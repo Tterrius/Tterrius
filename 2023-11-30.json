@@ -1,0 +1,26 @@
+{
+  "name": "Devin Wilkins",
+  "age": 33,
+  "address": {
+    "street": "Upvas View",
+    "city": "Jipunbum",
+    "state": "AR",
+    "zip": "91245"
+  },
+  "contact": {
+    "phone": "(761) 292-8829",
+    "servicePhone": "800565651"
+  },
+  "birthday": "1986-04-25T20:34:19.195Z",
+  "ip": "20.52.161.65",
+  "foo": "bar",
+  "profile": {
+    "about": "Zivusa wu bilozoz je tuzluc vifzuf jisomor jozwe toh hotjerga ecje vut hedguhac ihcece. Fuvbab et sebjoafe kicnefec gaccemuk ojduz pingewe ijeso hola icsirto witwevar kazuv zuznela atiwe himbop. Ukcaw netah os dijovnu pep iva utvingal gudezur ba ov guznout cireiso. Zosbil palhil fapbeafo vetmica ni faf ito otiut wusefju urda ronawizo kevar huhmib ikeip uz bav pi.",
+    "bio": "Ganoffak fuhe jikugamim herad olpe guros gulih uwali uri ukecut wawkuz nowittal cogoj kober lu kinirac. Ahitahah cus mibuc fimmohaf usadaloc gozfuw ero su peav kaedza zalcak neh riaghu rofurus rel fupze dic. Fiabbul ut ic ojoreh lan nacbilor wuj navad inowezi gotca zopimpoj gi."
+  },
+  "apiKey": "dfe4bd3abeb4cb9756caed147974eed2905eca97c0ccc23108aa91bb9cf30a77",
+  "currency": {
+    "code": "KES",
+    "name": "Kenya Shilling"
+  }
+}
