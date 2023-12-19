@@ -1,0 +1,26 @@
+{
+  "name": "Nelle Smith",
+  "age": 34,
+  "address": {
+    "street": "Ejra Square",
+    "city": "Tokedune",
+    "state": "NM",
+    "zip": "09918"
+  },
+  "contact": {
+    "phone": "(769) 233-5774",
+    "servicePhone": "800285267"
+  },
+  "birthday": "1979-05-27T02:45:20.751Z",
+  "ip": "96.59.138.120",
+  "foo": "bar",
+  "profile": {
+    "about": "Gog mup secij pec va dohje pefenkom meluvpo rove azo ga ej letoci gauv cota. Wazelpa irva so sa kekesbal hagodhu lupiuti tehdujub mof kukfo sujtubi ukrucep. Gotew sodathaz awusuhes uru wawati iviswo vejlih vacupnu woaw meudcu barfi sa unaogad gas av piz. Acjoti wuvacu nam anbekkug zetzogope vate ceevow je maig liuzevol hojag suhpe.",
+    "bio": "Wopbumbok ev hadel gibwedu ji ij sovov keko regonri be bowzuuz naloflim fefrazo mo tatezzal linec. Pocoraro sifipof riw fujped dicapvum ulopaf dikbeul inimaftu iwru mawdoes saw kaj zahapriw farwidij duawkor. Molviccu alzivek berahpu zejin wom oriuva nebo ube zinamar lebzaziz bo lituche zile nemigi umofivhor uta cijib. Tupceb te aslebzo hu pa agsugof gogolfeg cidwig gef pa gelapi ta niogakef du dunwiw. Tico vidsiz kus azwoh vuhajamik orehaav una huni jidji orbi efufob nianga won jerot sucmofu feshaju."
+  },
+  "apiKey": "b7711b80e3885db7cd52fbdeacd809dfc2ddc3528d29b2dfabc2c3b06a389f71",
+  "currency": {
+    "code": "MGA",
+    "name": "Madagascar Ariary"
+  }
+}
