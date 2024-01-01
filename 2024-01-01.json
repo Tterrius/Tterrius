@@ -1,0 +1,26 @@
+{
+  "name": "Nicholas Pearson",
+  "age": 55,
+  "address": {
+    "street": "Nalba Boulevard",
+    "city": "Vokohaf",
+    "state": "DE",
+    "zip": "52388"
+  },
+  "contact": {
+    "phone": "(657) 229-4871",
+    "servicePhone": "800885442"
+  },
+  "birthday": "1981-10-21T20:48:36.763Z",
+  "ip": "64.252.144.65",
+  "foo": "bar",
+  "profile": {
+    "about": "Le viw defiku pew uva wogupi leta sippot sum nomeweza ojo wiwejipe vojuzote highu co rocoze. Cefguh fafmik wawfanol peta ne da ropinro hulcunli vadcufkum avopzo ec kirliati jahek ahipuz atuzidkum senpa. Poebo ba almemado uta cuzu pa po eh woab arjud wojibfu ubcova datofle fozijim.",
+    "bio": "Tuhgosi muatuwu puvuh mu fiebieke gi rowehid awo dora dahefer bi gonred dam ec zo. Cor amiwu jej ro cuv datida wensikefi danguc epwohi civ hepnazov go puwvegcu go veciguor abegiuka gipoesa haopwov. Ba pavdekco api tiz hi tonah kenesil kaecasos fop si itfipjoc zogoszif vud ik lum suzzeba zajil. Bulej cu gupbo veadi eseapu gorle gadowpog tuzosu zir owahusog kamga cike uzuba locsem."
+  },
+  "apiKey": "b2c76b5723b1b3e97086b3ef27ddb56874964948d090799249a057a56ce92932",
+  "currency": {
+    "code": "KPW",
+    "name": "Korea (North) Won"
+  }
+}
