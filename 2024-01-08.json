@@ -1,0 +1,26 @@
+{
+  "name": "Bobby Mason",
+  "age": 40,
+  "address": {
+    "street": "Ipfo Point",
+    "city": "Uvodenjos",
+    "state": "KY",
+    "zip": "63411"
+  },
+  "contact": {
+    "phone": "(618) 782-9079",
+    "servicePhone": "800864163"
+  },
+  "birthday": "2001-06-18T13:39:29.449Z",
+  "ip": "133.222.127.215",
+  "foo": "bar",
+  "profile": {
+    "about": "Cuocoojo cet atabawum ceuka dafe faw cujsi zo muh ewja losi vam ba lusjir pogiwe ri ofeov. Tir ko otagu wod zo weuva not vebbafiv dudte dowib wim bom lan hobuv pe hohgu risufid. Faona jugmij radres ce osakanze bur kitte tucnuku egonu cojmazse uce fukun feh cidiz zocomzad. Gupsu edvukbal giwa ilemowon sog lout lufalmo go oduuligu rapihopef or jedvede hur koro zuzbu urgunso.",
+    "bio": "Jis cakakivu aliacefo lukwusho ewe jec ibbe ceriopa jegmiil neno hiruuro ahmufkat dum essood. Savju adeat eho fipfego lerofoj gupa zo keahi temalijul loda ruk ripro todeh opu gepigov giena. Hom juew la how le veusitol uno panmoasa ficoki wer cel vi vudju eleti. Usvupiba jo caoki bowor vim coprurjoh lop luz naz ek tokag sovlueg itfeit. Ku ecesu ogjopep sisehki nepwit rudis owuowe tokitus oca depkucge lejo ode. Fe owwuvja mih korug zizloac sinoleve cah ogbu coflowatu la kigjeh sontag fih."
+  },
+  "apiKey": "15573b2ff7a9cc9c6e937ef93470a07f4a0a73f8be6dad47c978bf893b5eb88d",
+  "currency": {
+    "code": "SCR",
+    "name": "Seychelles Rupee"
+  }
+}
