@@ -1,0 +1,26 @@
+{
+  "name": "Nicholas Joseph",
+  "age": 24,
+  "address": {
+    "street": "Ezike Trail",
+    "city": "Ijwojwe",
+    "state": "DE",
+    "zip": "45147"
+  },
+  "contact": {
+    "phone": "(680) 567-6516",
+    "servicePhone": "800463254"
+  },
+  "birthday": "1978-01-20T08:06:13.767Z",
+  "ip": "236.135.51.73",
+  "foo": "bar",
+  "profile": {
+    "about": "Fipzazun gu ahibusbe ger ezkop hewa ugpuk dikunlu sifotmor ak opdegda vaesi ja. Sicupe va ginaroci obutekhik nu da jeder je eritob obefot numalli rokzu iz. Cojlikme ce nouhzo cupek huuva banru sazup lok ebke akebe ipalol kab tiogkip sogdiuko hugiha ker ew fu.",
+    "bio": "Rucil bek hu tem mi tehvetrim tudo gazgiva usdidow ra niugrur faofedo ejbawoz. Girba povtot uk rajuz fag iruwome led miruh jooreret pupode ewu movah hoafuhus jorawto. Cunzenug ezma nawre mapkewi ribvit kituzge pofku tafwo zokdebti gon wihradfaw ivlences veobazu kazialu bapuzi ji dorre. Zufuj zu de wufo kojfeze if nekapa zoruhil ano vof zin mehorik muhoz zane abmicab."
+  },
+  "apiKey": "f47e83cf487eee6ed11152ee14089179fb2e65e7d3c97195d70c820e29258c6b",
+  "currency": {
+    "code": "MMK",
+    "name": "Myanmar (Burma) Kyat"
+  }
+}
