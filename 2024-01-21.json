@@ -1,0 +1,26 @@
+{
+  "name": "Nathan Aguilar",
+  "age": 38,
+  "address": {
+    "street": "Voviz Highway",
+    "city": "Jimeate",
+    "state": "VA",
+    "zip": "22254"
+  },
+  "contact": {
+    "phone": "(889) 995-2921",
+    "servicePhone": "800518116"
+  },
+  "birthday": "1982-10-25T09:15:02.281Z",
+  "ip": "140.88.181.226",
+  "foo": "bar",
+  "profile": {
+    "about": "Jomah zenalu vivnutves en jotah lakutat ozduc kumguh rave jamijama im olugid avauh fuzaem ni nuk. Ta pefmi owaabeco acuko jupil kugasu mut pec ibfi kup mi iphouba ji iw. Hica ku re guv ade bes rih vonuwoh limdolnev wijsab evo jedvoknov famawja. Bufevo nizin ehe akre himpe ipolig kipepo duvnifi holwev ugo tarhadzad di pa lugeg.",
+    "bio": "Bulped ba govihhi ru kilej cipen vi ruijo sasbo dub icivek bac zuz kakagisev fosiilu. Tehobi pijoj cego ol rebivso lohis sigelbev re nugahfe nijliab ip hivic ko zo. Ri lo impe fuse domhut edduva ba wikmale vagok aru gabjuve mat dovta un soruvo. Seb carinhe vocegiv masipe jibogdu pojuz re jawi do foniun ref rappuajo nukod emaeh."
+  },
+  "apiKey": "d3c5aa1b31e5942ae7e6ff8a10353c3b8008d5fe4b84f75dd1e7814e12d1deee",
+  "currency": {
+    "code": "HNL",
+    "name": "Honduras Lempira"
+  }
+}
