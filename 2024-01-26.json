@@ -1,0 +1,26 @@
+{
+  "name": "Jose Sullivan",
+  "age": 65,
+  "address": {
+    "street": "Wabge Terrace",
+    "city": "Efolali",
+    "state": "WV",
+    "zip": "79004"
+  },
+  "contact": {
+    "phone": "(740) 204-7475",
+    "servicePhone": "800832915"
+  },
+  "birthday": "2002-09-13T20:42:59.624Z",
+  "ip": "4.244.102.23",
+  "foo": "bar",
+  "profile": {
+    "about": "Dohgom ohotahkid ehlozo iwizesjo ropado datib zuvuhtij zez pogup ke jonhod hucwaput. Gufloga so fa mit uzovajnen rehejpu ewbe bi avo norgufnow zil te dul vunakog sejzow zof. Duncutgi kuzluz miif fo ugij ragap apge isecof enajez nehir mevsekun cuhkoz vah sobazahaj bictawa liafa lazera viv.",
+    "bio": "Dacup vunonfis olki bubemika kokol te mas nojpa nasfut cojnopsi mozone zik fifouva asrac. Ran lurwepak hine li fu iwo uka dugzus fo tasik def lofgi. Diewa ridtiz amzi ku bafduluc lumascur leva fiwejhor bafvus bezasow kefofiiz sowgejbuh nil kusmota verlo jo jem. Wira zu saesama noruju igrover co eleulaiti ra cemez logow gu gebkuk newi lo lap va liwaw wiwuwe."
+  },
+  "apiKey": "af239faf8230cb1d682a4709885c2b147cbd04fb65e61f3faaf2e67359f529fe",
+  "currency": {
+    "code": "BRL",
+    "name": "Brazil Real"
+  }
+}
