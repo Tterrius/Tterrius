@@ -1,0 +1,26 @@
+{
+  "name": "Juan Burke",
+  "age": 35,
+  "address": {
+    "street": "Tuja Terrace",
+    "city": "Bozajozom",
+    "state": "NC",
+    "zip": "92698"
+  },
+  "contact": {
+    "phone": "(481) 812-6612",
+    "servicePhone": "800534535"
+  },
+  "birthday": "1989-02-07T18:47:04.740Z",
+  "ip": "44.117.138.239",
+  "foo": "bar",
+  "profile": {
+    "about": "Liwwo buw belah ugo haaha pi abtaclo wiznem rudisew uwuta piboskar ro wudi par. Sinfo feja kawweew jazipoz ezukam pomuvuh hov vezcin noke kidubted nuw lehoci ta erozuv pujar fovi soz weh. Zezanvo wi iz radzikrib ufi pumkun sekhu vawolo jam vimpa vakjihu geh sat. Uswalag hodi merizok uliik hawem lon niziwun pi fizhuhra lifjuj um uf. Zad vikzuvi nokvicte cej wipowkep magrod himorij vu doutoza fiav rik buheb lip webuveveg renaj sac ogaon.",
+    "bio": "Mampufe zohlu hisafove emacitib hapuuj jo nagab lo tafiri ita ko luw tanwisek. Ilaop ic soipu vivadoj huwot otozupo boos ted si nebearu du tumowimi ednun guvjajto no anurujit dipnenul popifo. Kujud vusbut agitawic lu ebojes ravobfaf gifkak jotojjib sa uhupakol zapa not ofovu. Huv anusi kesro caklo uh aj garbi ziwohu ilmesve aga zij lotitmaw vuwbinuv pujoil dojojibu ut henem vijahfa."
+  },
+  "apiKey": "475010f9fd8a414b70bbabf8138a2b234f685ac0b96f8263ba4bb8bc6d55acfa",
+  "currency": {
+    "code": "BOB",
+    "name": "Bolivia Boliviano"
+  }
+}
