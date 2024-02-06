@@ -1,0 +1,26 @@
+{
+  "name": "Nettie Rogers",
+  "age": 45,
+  "address": {
+    "street": "Fethul Drive",
+    "city": "Iljazmew",
+    "state": "MD",
+    "zip": "39664"
+  },
+  "contact": {
+    "phone": "(832) 541-8902",
+    "servicePhone": "800368872"
+  },
+  "birthday": "1974-05-14T09:43:37.712Z",
+  "ip": "181.17.67.160",
+  "foo": "bar",
+  "profile": {
+    "about": "Ra roelev momvori hipwa nidmobta vo olo ib mec senih dor jizi nu pavgel kuujgi lu itme. Caza pe ham singejbo katpi fe nad tismowo dunudef paconlu cic zewviliw kepu fihokrik oc titjezna tuve. Ditfel nu cujruzem tomit cormic umsozi ov catza jeizje li pa jupodel wiwivi vapbi. Fa zej os pa ro uhjonku hufad ro daf ipibutu raifi za no ogo ametac.",
+    "bio": "Vas jof negvauwi kuggoneb urahanu terco uzidire upo ten kowi resi ogvosoge otu. Jegkeh averawzi doabi kik ira polu pa kuhami dug zotefcul seca peub jicahik. Ris he pehi foerusub sun cekmu caw vuvacfig vuna ja uceperdeb barug og urle zecul."
+  },
+  "apiKey": "15606df34737adcf01e52099304794f3f20c9c94eb41a9bbc3d892600bc5f7ad",
+  "currency": {
+    "code": "AZN",
+    "name": "Azerbaijan New Manat"
+  }
+}
