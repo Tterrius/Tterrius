@@ -1,0 +1,26 @@
+{
+  "name": "Kevin Cruz",
+  "age": 35,
+  "address": {
+    "street": "Kicep View",
+    "city": "Acpika",
+    "state": "OH",
+    "zip": "47894"
+  },
+  "contact": {
+    "phone": "(958) 809-2518",
+    "servicePhone": "800116224"
+  },
+  "birthday": "2004-11-11T07:39:48.743Z",
+  "ip": "75.7.143.87",
+  "foo": "bar",
+  "profile": {
+    "about": "La tahre iwnouj es tonhu kef os adu eruihak ge feb ve ijuga botizege leg ehow. Hun fa tagi wi dokpa fodufem zaasamej zahih sokahuc ef dimer je niakohaz ofihopo odefe okvacuw pacide mor. Busocli wud cutejsa olgecjul votehe oliamwe dedes eboce gohcav suf woin ko buiwanur sejam. Na corava bad vaufagig ijpok sumoluv baw ulo mudsi bihhemom diw nabaphi ug cec cusonawo ces.",
+    "bio": "Ruli mecetu fagidvef cawjore bonsis gulrev dewsav gojris ko ami dev wikdidral nieg bogofe. Lekudar bokvu komeh popfokka regkapwuz fa tubujnol wihadem pomgarku ab segzumemu lece celwihceb di. Ciniltol mik fe nob bonpik di gizegup wavvenih opzurlis alrazhoh dabira ratvedi dilbecota ojose fa loginoco doso vueb."
+  },
+  "apiKey": "a8be25a92c39f547f10d496d301d1d4f50618f27ccc58c036742b0074805ddd0",
+  "currency": {
+    "code": "SOS",
+    "name": "Somalia Shilling"
+  }
+}
