@@ -1,0 +1,26 @@
+{
+  "name": "Agnes Jordan",
+  "age": 19,
+  "address": {
+    "street": "Cuahi Park",
+    "city": "Faduhun",
+    "state": "MO",
+    "zip": "48413"
+  },
+  "contact": {
+    "phone": "(501) 676-4578",
+    "servicePhone": "800752967"
+  },
+  "birthday": "1990-07-12T20:41:56.716Z",
+  "ip": "39.249.194.137",
+  "foo": "bar",
+  "profile": {
+    "about": "Lajwonkep jucad gotin dacoha serpisi uguibu savu jow zek sujivjit wazec mas sosegem. Ow cipha asikodil buf puclezef urahev okope toebe hefoz telif imese cerwem kebi pahbebji icutinih vuseso posuwunu. Vumgoc wemuz ditirfaf wa abvoj gur karo muw femrav ha limgorik nujfeiwi ehave.",
+    "bio": "Ancegzew difunuvu onintog kivug ukuimefof po ic amlotpa nop oduho fas fudecpep dun ki ra di. Rakij veab tas natbena co sa mo ogleji veihu ore uteta suw fam mok akihazji maageeg cet zuzhedbel. Evsav gezce nomow ucotodita zosgif olliti kigve nagvi wamar te ka ubenu as kahbidek ufe adi leneg wa. Su zi wofov deac hunuce jasaf pabitom daet tehuk fe sibbe uk jebum te ir ob hat fe."
+  },
+  "apiKey": "66757708a051fcb4d6a5c8ecefb67765e33da74e1656e5ce3e58d51a89ba2705",
+  "currency": {
+    "code": "TWD",
+    "name": "Taiwan New Dollar"
+  }
+}
