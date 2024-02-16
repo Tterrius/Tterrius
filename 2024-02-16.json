@@ -1,0 +1,26 @@
+{
+  "name": "Cody Higgins",
+  "age": 46,
+  "address": {
+    "street": "Nelog Extension",
+    "city": "Mivfaliz",
+    "state": "FL",
+    "zip": "74381"
+  },
+  "contact": {
+    "phone": "(637) 839-1357",
+    "servicePhone": "800383882"
+  },
+  "birthday": "1996-02-13T01:00:37.707Z",
+  "ip": "33.255.191.111",
+  "foo": "bar",
+  "profile": {
+    "about": "Ik jej wojasru zirgakji lihojsav moejtec vicfadog os atovid ibalajuk bedgiah vino pajerzib. Dutimwon rucjupi lomfam ukmev tuzvu puohaete iwedu etro roto jumibcoj lijgo fa simdijar. Widido besople vegejpe finva ogligbe ru domor dow pur ifa mijul rajuhoiti wiw fafil fi pe efnu.",
+    "bio": "Kub zuhki sanez nonkuku de zirlon leokivir ram mofpus tegrafu udi to vajo ror miokje. Tadle fijizbe kalabif cu ahe aku bojcewuj re mi ar kowuveni taro fuvvite ho jitadi tewhihhel kuvriguf go. Huz elhi ce muoz upe owgo saicuwaw riar har newmo puz mahovwop rivel nonziv zavcod."
+  },
+  "apiKey": "9e61c312bc9ff7591051d52ed76bcac74dd9cb0e56ec73e2bdbeb51f86afffef",
+  "currency": {
+    "code": "ILS",
+    "name": "Israel Shekel"
+  }
+}
