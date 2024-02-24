@@ -1,0 +1,26 @@
+{
+  "name": "Jackson Bryant",
+  "age": 28,
+  "address": {
+    "street": "Vigi Pike",
+    "city": "Uwetuga",
+    "state": "WI",
+    "zip": "42482"
+  },
+  "contact": {
+    "phone": "(428) 811-7337",
+    "servicePhone": "800999881"
+  },
+  "birthday": "1972-04-23T21:36:51.922Z",
+  "ip": "161.235.138.55",
+  "foo": "bar",
+  "profile": {
+    "about": "Ole ro ri mu pueso vi hegjilvul zovfuuba ubic uwe dusvet few jegis vaduve avtapig. Hi vow ici epuweul cocmu baf dal fasbize zek okel imcuj igobo lejzib. Je vasacat pu eli porpi laegofek ir henris inuz paskav ovsum hoj.",
+    "bio": "Siwibmo lohudig bo biki gonebuci tadfova lepibune masoflem ruv vik cucunur merenhek imwefo uraoro udiv. Du getco be rem adraef efi tahun ehimesso uj jevokse wi zaj wowezati. Uj vitfofew go hep puvhev eszu zi ceboka umuuz upuneku zifbukti hablinojo agudubol. Cozetvu kukjakpop fu ogeeviog nunkadrun uc eshiso goek ivbir mej zo muwen uki mebe."
+  },
+  "apiKey": "09ba176144df2027e56bdba7cd9dfb97c9255c6eb9dde04f095b61f62ffcc51a",
+  "currency": {
+    "code": "GGP",
+    "name": "Guernsey Pound"
+  }
+}
