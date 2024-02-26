@@ -1,0 +1,26 @@
+{
+  "name": "Louis Gomez",
+  "age": 27,
+  "address": {
+    "street": "Bolhek Plaza",
+    "city": "Cokejac",
+    "state": "SC",
+    "zip": "99262"
+  },
+  "contact": {
+    "phone": "(325) 516-1808",
+    "servicePhone": "800879438"
+  },
+  "birthday": "1991-02-03T08:22:27.657Z",
+  "ip": "202.72.226.166",
+  "foo": "bar",
+  "profile": {
+    "about": "Bapo co takagle pehdalis da ajuhizab kij tudusa ohu fihsabe mulo peefo megowtuk ke. Vul visusce iszaseg bidfidhab de saw niilzod ihinan abako mihnut epu rojpe hu va heputwa we um gebu. Lossujta usucub vu ciuzfaf gos rihemobag vuk biw donug wavca pevemcap pivecmum nifses wusgu balic. Eri ufanudab jej ceeni filawsi no lesud li parioh ojelpih no lemiake imo iz izani ne. Foew jo oki fugigse dizo opateg datgu ecpam juc nozez bilfug cepmet. Zufde vorbazar zulim ze taectuf lohvotor ege unvinuz nejudo winut zog do mezoldut. Ibobnin menifez sog pepeh melac kencovfuk ven debhejin aw nemju da obiwo.",
+    "bio": "Anaap vegvi obi sigweros ejgoduse fahwog wafwif posunko weddifik sej efupe zaj ris fudimoc tad acoh ecahioco ag. Ti kunuzo zunew ifpecci nahtuhce kizabgel sor mihli mewvem ge wabi gaugalo pewhuz ofvebzit. Ohosahicu em nuverup zuaci be cikav fopazik usmaduk ri fac kommenpu eglooge li ce ujope zamzij tukdec."
+  },
+  "apiKey": "31533e2e83f96c6a75e9de7bc86a17d48ca97873fac080b0992471382427566e",
+  "currency": {
+    "code": "MWK",
+    "name": "Malawi Kwacha"
+  }
+}
