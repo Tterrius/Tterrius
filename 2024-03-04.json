@@ -1,0 +1,26 @@
+{
+  "name": "Roy Ballard",
+  "age": 37,
+  "address": {
+    "street": "Zovi Place",
+    "city": "Iwemuwla",
+    "state": "ID",
+    "zip": "59678"
+  },
+  "contact": {
+    "phone": "(759) 845-8073",
+    "servicePhone": "800552867"
+  },
+  "birthday": "1976-03-08T15:39:02.745Z",
+  "ip": "177.86.127.228",
+  "foo": "bar",
+  "profile": {
+    "about": "Wamupno so iw zam fuvvah rukbam tej nasubuico katel ji ru se efvaih iwuhaf hanwahiv ki. Pielju filiiv ti netmoega lanesi cemmaz izupi aki obkaro mevic dori paje recpijoza. Ewohe geazo cuejaro ruvut jip vevigi onewi ciher rejfutit vertab pezubkiv vacvemu ge pepzuof upmeg ges givgej.",
+    "bio": "Giksavsa uhuar seg wolanjif oz fu kal zaudokip tibva pagro wajoto fairoizi fe im. Sibiv boroletiz atumuwsa uhe ojiub pivo kalerik faz forzog ugonavo oskimu febug za. He dadozap feggofuz huvobzo oh cuni iguvab efi ipo ri nateze mezpup. Uhtipreg noze pecluw hanfiim icpac kiv kurco jeh uv hiobuomo ocumrir dihev."
+  },
+  "apiKey": "5f5f75bb7117ac0b80e53eb96df706cb741c09411f696111013fb52118716b2b",
+  "currency": {
+    "code": "MAD",
+    "name": "Morocco Dirham"
+  }
+}
