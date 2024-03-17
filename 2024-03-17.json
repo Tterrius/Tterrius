@@ -1,0 +1,26 @@
+{
+  "name": "Sally Morton",
+  "age": 40,
+  "address": {
+    "street": "Zenor Street",
+    "city": "Akteru",
+    "state": "AL",
+    "zip": "46546"
+  },
+  "contact": {
+    "phone": "(780) 265-9892",
+    "servicePhone": "800177734"
+  },
+  "birthday": "1995-01-14T21:57:40.592Z",
+  "ip": "215.66.127.66",
+  "foo": "bar",
+  "profile": {
+    "about": "Ehu ivu raw dovrun dogumolig abo ise ke milur cuforez ru acpij devgipik halce ke tokathu asaet. Luwni ag lom suuv zuc edojac niprif honabbun fakti tadcapi tebve hihonjas retzaap pinilok va famarav. Iv do ritjaka hoc huhapuf zesemjun foute ki wagoozo rurow izwophe ewtep ducebpa.",
+    "bio": "Ebureup jagu avamuli lewsoz pa arvureb no jiuspej lo ahnij wacsum foot bejod fo. Midotbic sazi sowi godiamo sosenen niweku ar uf mighiz tufokedo pesfula simwowno ceckuk. Ecare mijda vittaf letis vu cu rewjiw nerwib bab ve adkesga wicojoh ojo fab ojsinpov kalvaf nisgigluv fuwvo."
+  },
+  "apiKey": "687e34b8bc5f48972f8edf6178bf00592e6c4403e534cf6056df6e70ac0a6f54",
+  "currency": {
+    "code": "MUR",
+    "name": "Mauritius Rupee"
+  }
+}
