@@ -1,0 +1,26 @@
+{
+  "name": "Patrick Fox",
+  "age": 31,
+  "address": {
+    "street": "Aroci Highway",
+    "city": "Wuforge",
+    "state": "AK",
+    "zip": "42310"
+  },
+  "contact": {
+    "phone": "(287) 358-5872",
+    "servicePhone": "800655897"
+  },
+  "birthday": "1987-11-23T11:36:30.222Z",
+  "ip": "90.152.71.76",
+  "foo": "bar",
+  "profile": {
+    "about": "Fo newlesen ugusunum lutog cuhwaz joveroze nebveruh ruf posbuvel nocetweg suina ka esueka oh luc. Odume rivjafef ahuwle urenofu osuzenma wa ike sazezo ef redgodra gapibajun tel muleme kidotodaj vom. Zo zatel er puw ce bupobipe mu vuf occa enficuc zopih bolkaz ruru fef. Zozec pugke kan bishefvu lauva dudbizvew jah ahomuf usiawa wepnala la odeju gas fuzhekto.",
+    "bio": "Tagu savfe uboj hehisliw wohwuti li ewe vel iccu adpapah ganuhoki hi igkad idfe dozolvot jojez talil. Tidvuj udsazo fahpate mozamu zuofno vefwoew licra tukudul vipad sivu of jokiapa omisoce lonedana ejama. Emi suwfi jojat sefmu api ezad el kaac bo dicunob vualo mo gopasimer vuf nuheteaha digdapo roate gus. Pudag vatbogho ubcirtin biphug tukeina biiniluh bak uliwurabi vedoas rusunti ecco romuhziw wet juvu keg ovnohduf la kofbac. Ab owauho samfihi andehet babpaku jo gelize imozesu pofeeme po sit ogo vifhissu ah kazuide silalew cegam. Ru rak hadniwla pef awpum ko riiz canata bopnotmu ca pojut bi feosa eje."
+  },
+  "apiKey": "4b9b79d1966a5f567e502b2498fc41d841cab404343489fcc53abfd3dfc88e7d",
+  "currency": {
+    "code": "ISK",
+    "name": "Iceland Krona"
+  }
+}
