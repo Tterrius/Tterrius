@@ -1,0 +1,26 @@
+{
+  "name": "Darrell Manning",
+  "age": 52,
+  "address": {
+    "street": "Morid Grove",
+    "city": "Lalledo",
+    "state": "KS",
+    "zip": "65027"
+  },
+  "contact": {
+    "phone": "(615) 335-8230",
+    "servicePhone": "800746931"
+  },
+  "birthday": "1962-05-30T16:41:07.839Z",
+  "ip": "188.36.185.166",
+  "foo": "bar",
+  "profile": {
+    "about": "Bu bi gu mivunvoh zebav badac ewbohzu tiruziw zufsuna sutahgid ot otita. Wefiz zapcim vatfeik lat ifu vuibozo ger rufde wif usalit nulalu natpeiz. Gek afeju nisakka oti godza bofkas oli vuhwukval huriizu kooruara unelo regcaf. Leh suh du wehej op avnofap ul zupunosu naltodsi viposbur jadade zu odta jufwap miis dabmagnit ikudi. Noga ijpa eba gefubhej tuuwca ewobap fih tiskotvi itoh ba soljo bosomku gu fajup pu bov. Hibepa wigup vepirni oksabfep gavkos lecnospit nidcinaw uvamu nuz agoez vopdem lod avgosbiz ewfaet iwtumin bofek.",
+    "bio": "It mek cobpunwi gab un kalki pumsez zukbo kalaltis rezutzi zu vom. Vakpu ka ewotavi da locarba efsonhar roz zitpazibe luhevu zagaco efafe wela jojikub toole lagiosu puduode lom. Umkap aju liwlunsif capa vabid av dejvu fuz kasasmob wakaki ludi muebzep fa uwesekbot cazen rumjiape upojotdew nodivbu. Ruzuuf omial vifis zoz zujoj we ga tikomoc uze owhendu leev ezfabaz guv. Ci aceca rowidu pe wognivpo osoneb fibem kunpomad wed livvo osu jeekujo gu ejija egu wed puha. Ez go ad laed pejbaepo icazuja lodu ralac zotrevip gedkos ke julra sih kehwes pipfiz ripohsot adbuf."
+  },
+  "apiKey": "9540089e7679a291edf093ee70f5ec7ebd27961f35657da4e9deb91e11de6bc1",
+  "currency": {
+    "code": "TZS",
+    "name": "Tanzania Shilling"
+  }
+}
