@@ -1,0 +1,26 @@
+{
+  "name": "Calvin Rose",
+  "age": 24,
+  "address": {
+    "street": "Ovociv Court",
+    "city": "Ashusil",
+    "state": "AL",
+    "zip": "36685"
+  },
+  "contact": {
+    "phone": "(357) 649-6520",
+    "servicePhone": "800916288"
+  },
+  "birthday": "1986-11-27T20:06:55.961Z",
+  "ip": "40.231.9.139",
+  "foo": "bar",
+  "profile": {
+    "about": "Hagwijwo tegu zalauco ga vatrok pizov berim siz lo wasivim somitug ziapemoc. Poz fib bol ola rudsotaf disivwa duh goflu sar ba zisis davgo perak dakpah. Pef bu ewi zinase cuwowagu uj iwcukcu gif ginomo tonavoem nuwnum no uni fimot. Bohab fazavicu ho beim ekidum fuojzo ezpat hasorla joluku jevogotow di wozbu vur gu kihfun wiile ho.",
+    "bio": "Kec cokiroake vavupfam ajoruf lo gi bi po ojnew lac feiwebo rek set ehsoor pihvetug ce. Nigefeg adicol nokmov ikagoub bemnew felseiro wekelet vegmahepo detu tuvaw lasuwibim edu. Nosa iflipi suajipo upoka karizpu catul ihu voga horeghe orkohov soad mibib zedah mehdojtok otolo azuhac toguzcid. Wiwwushug meadida wu idhef jodaj gi meolco wesoto ahdo lu nocwi vogdol memve reddu. Daud upezeb niza sit olwuhwip sipsum cagdo ni ogicuob wafkatcac difur afriku kaljecba nipsuve fezic co duwizag me."
+  },
+  "apiKey": "7306b861d0af1b5a7e9d10c09b4983b5930e9d697bb300f6a0785ce287ddccc4",
+  "currency": {
+    "code": "MVR",
+    "name": "Maldives (Maldive Islands) Rufiyaa"
+  }
+}
